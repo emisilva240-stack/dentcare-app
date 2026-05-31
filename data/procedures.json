@@ -1,0 +1,586 @@
+[
+    {
+        "id": "p1",
+        "name": "Consulta odontológica",
+        "specialty": "Odontología General",
+        "doctorId": "d1",
+        "price": 12000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p2",
+        "name": "Control periódico",
+        "specialty": "Odontología General",
+        "doctorId": "d1",
+        "price": 12000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p3",
+        "name": "Limpieza dental",
+        "specialty": "Odontología General",
+        "doctorId": "d1",
+        "price": 22000,
+        "duration": "45 min"
+    },
+    {
+        "id": "p4",
+        "name": "Aplicación de flúor",
+        "specialty": "Odontología General",
+        "doctorId": "d1",
+        "price": 15000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p5",
+        "name": "Detección de caries",
+        "specialty": "Odontología General",
+        "doctorId": "d1",
+        "price": 12000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p6",
+        "name": "Obturaciones (arreglos)",
+        "specialty": "Odontología General",
+        "doctorId": "d1",
+        "price": 35000,
+        "duration": "45 min"
+    },
+    {
+        "id": "p7",
+        "name": "Selladores dentales",
+        "specialty": "Odontología General",
+        "doctorId": "d1",
+        "price": 18000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p8",
+        "name": "Radiografía diagnóstica",
+        "specialty": "Odontología General",
+        "doctorId": "d1",
+        "price": 15000,
+        "duration": "20 min"
+    },
+    {
+        "id": "p9",
+        "name": "Urgencias odontológicas",
+        "specialty": "Odontología General",
+        "doctorId": "d1",
+        "price": 40000,
+        "duration": "45 min"
+    },
+    {
+        "id": "p10",
+        "name": "Consulta General",
+        "specialty": "Odontología General",
+        "doctorId": "d1",
+        "price": 12000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p11",
+        "name": "Primera consulta infantil",
+        "specialty": "Odontopediatría",
+        "doctorId": "d1",
+        "price": 15000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p12",
+        "name": "Control odontológico infantil",
+        "specialty": "Odontopediatría",
+        "doctorId": "d1",
+        "price": 15000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p13",
+        "name": "Limpieza dental infantil",
+        "specialty": "Odontopediatría",
+        "doctorId": "d1",
+        "price": 18000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p14",
+        "name": "Aplicación de flúor infantil",
+        "specialty": "Odontopediatría",
+        "doctorId": "d1",
+        "price": 15000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p15",
+        "name": "Selladores para niños",
+        "specialty": "Odontopediatría",
+        "doctorId": "d1",
+        "price": 15000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p16",
+        "name": "Tratamiento de caries infantiles",
+        "specialty": "Odontopediatría",
+        "doctorId": "d1",
+        "price": 25000,
+        "duration": "45 min"
+    },
+    {
+        "id": "p17",
+        "name": "Extracción de dientes temporales",
+        "specialty": "Odontopediatría",
+        "doctorId": "d1",
+        "price": 20000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p18",
+        "name": "Control de erupción dentaria",
+        "specialty": "Odontopediatría",
+        "doctorId": "d1",
+        "price": 15000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p19",
+        "name": "Educación en higiene bucal",
+        "specialty": "Odontopediatría",
+        "doctorId": "d1",
+        "price": 10000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p20",
+        "name": "Consulta Infantil",
+        "specialty": "Odontopediatría",
+        "doctorId": "d1",
+        "price": 15000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p21",
+        "name": "Evaluación ortodóntica",
+        "specialty": "Ortodoncia",
+        "doctorId": "d2",
+        "price": 20000,
+        "duration": "45 min"
+    },
+    {
+        "id": "p22",
+        "name": "Colocación de brackets",
+        "specialty": "Ortodoncia",
+        "doctorId": "d2",
+        "price": 150000,
+        "duration": "90 min"
+    },
+    {
+        "id": "p23",
+        "name": "Control de brackets",
+        "specialty": "Ortodoncia",
+        "doctorId": "d2",
+        "price": 25000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p24",
+        "name": "Ortodoncia preventiva",
+        "specialty": "Ortodoncia",
+        "doctorId": "d2",
+        "price": 60000,
+        "duration": "45 min"
+    },
+    {
+        "id": "p25",
+        "name": "Ortodoncia interceptiva",
+        "specialty": "Ortodoncia",
+        "doctorId": "d2",
+        "price": 70000,
+        "duration": "45 min"
+    },
+    {
+        "id": "p26",
+        "name": "Alineadores transparentes",
+        "specialty": "Ortodoncia",
+        "doctorId": "d2",
+        "price": 350000,
+        "duration": "60 min"
+    },
+    {
+        "id": "p27",
+        "name": "Retenedores",
+        "specialty": "Ortodoncia",
+        "doctorId": "d2",
+        "price": 40000,
+        "duration": "45 min"
+    },
+    {
+        "id": "p28",
+        "name": "Control post tratamiento",
+        "specialty": "Ortodoncia",
+        "doctorId": "d2",
+        "price": 20000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p29",
+        "name": "Control de Ortodoncia",
+        "specialty": "Ortodoncia",
+        "doctorId": "d2",
+        "price": 25000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p30",
+        "name": "Tratamiento de conducto",
+        "specialty": "Endodoncia",
+        "doctorId": "d3",
+        "price": 95000,
+        "duration": "90 min"
+    },
+    {
+        "id": "p31",
+        "name": "Retratamiento de conducto",
+        "specialty": "Endodoncia",
+        "doctorId": "d3",
+        "price": 110000,
+        "duration": "100 min"
+    },
+    {
+        "id": "p32",
+        "name": "Urgencia endodóntica",
+        "specialty": "Endodoncia",
+        "doctorId": "d3",
+        "price": 45000,
+        "duration": "45 min"
+    },
+    {
+        "id": "p33",
+        "name": "Evaluación pulpar",
+        "specialty": "Endodoncia",
+        "doctorId": "d3",
+        "price": 15000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p34",
+        "name": "Tratamiento de Conducto",
+        "specialty": "Endodoncia",
+        "doctorId": "d3",
+        "price": 95000,
+        "duration": "90 min"
+    },
+    {
+        "id": "p35",
+        "name": "Evaluación periodontal",
+        "specialty": "Periodoncia",
+        "doctorId": "d4",
+        "price": 18000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p36",
+        "name": "Limpieza profunda",
+        "specialty": "Periodoncia",
+        "doctorId": "d4",
+        "price": 40000,
+        "duration": "45 min"
+    },
+    {
+        "id": "p37",
+        "name": "Raspado y alisado radicular",
+        "specialty": "Periodoncia",
+        "doctorId": "d4",
+        "price": 55000,
+        "duration": "60 min"
+    },
+    {
+        "id": "p38",
+        "name": "Tratamiento de gingivitis",
+        "specialty": "Periodoncia",
+        "doctorId": "d4",
+        "price": 45000,
+        "duration": "45 min"
+    },
+    {
+        "id": "p39",
+        "name": "Tratamiento de periodontitis",
+        "specialty": "Periodoncia",
+        "doctorId": "d4",
+        "price": 80000,
+        "duration": "60 min"
+    },
+    {
+        "id": "p40",
+        "name": "Control periodontal",
+        "specialty": "Periodoncia",
+        "doctorId": "d4",
+        "price": 20000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p41",
+        "name": "Tratamiento de Encias",
+        "specialty": "Periodoncia",
+        "doctorId": "d4",
+        "price": 60000,
+        "duration": "60 min"
+    },
+    {
+        "id": "p42",
+        "name": "Extracción simple",
+        "specialty": "Cirugía Bucal",
+        "doctorId": "d5",
+        "price": 35000,
+        "duration": "45 min"
+    },
+    {
+        "id": "p43",
+        "name": "Extracción compleja",
+        "specialty": "Cirugía Bucal",
+        "doctorId": "d5",
+        "price": 55000,
+        "duration": "60 min"
+    },
+    {
+        "id": "p44",
+        "name": "Extracción de muelas de juicio",
+        "specialty": "Cirugía Bucal",
+        "doctorId": "d5",
+        "price": 80000,
+        "duration": "75 min"
+    },
+    {
+        "id": "p45",
+        "name": "Cirugía de tejidos blandos",
+        "specialty": "Cirugía Bucal",
+        "doctorId": "d5",
+        "price": 65000,
+        "duration": "60 min"
+    },
+    {
+        "id": "p46",
+        "name": "Biopsias bucales",
+        "specialty": "Cirugía Bucal",
+        "doctorId": "d5",
+        "price": 50000,
+        "duration": "45 min"
+    },
+    {
+        "id": "p47",
+        "name": "Control postquirúrgico",
+        "specialty": "Cirugía Bucal",
+        "doctorId": "d5",
+        "price": 15000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p48",
+        "name": "Extraccion Dental",
+        "specialty": "Cirugía Bucal",
+        "doctorId": "d5",
+        "price": 45000,
+        "duration": "45 min"
+    },
+    {
+        "id": "p49",
+        "name": "Evaluación para implantes",
+        "specialty": "Implantología",
+        "doctorId": "d5",
+        "price": 20000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p50",
+        "name": "Colocación de implantes",
+        "specialty": "Implantología",
+        "doctorId": "d5",
+        "price": 180000,
+        "duration": "90 min"
+    },
+    {
+        "id": "p51",
+        "name": "Control de implantes",
+        "specialty": "Implantología",
+        "doctorId": "d5",
+        "price": 25000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p52",
+        "name": "Prótesis sobre implantes",
+        "specialty": "Implantología",
+        "doctorId": "d5",
+        "price": 200000,
+        "duration": "90 min"
+    },
+    {
+        "id": "p53",
+        "name": "Implante Dental Unitario",
+        "specialty": "Implantología",
+        "doctorId": "d5",
+        "price": 180000,
+        "duration": "90 min"
+    },
+    {
+        "id": "p54",
+        "name": "Blanqueamiento dental",
+        "specialty": "Odontología Estética",
+        "doctorId": "d6",
+        "price": 85000,
+        "duration": "60 min"
+    },
+    {
+        "id": "p55",
+        "name": "Carillas estéticas",
+        "specialty": "Odontología Estética",
+        "doctorId": "d6",
+        "price": 120000,
+        "duration": "60 min"
+    },
+    {
+        "id": "p56",
+        "name": "Diseño de sonrisa",
+        "specialty": "Odontología Estética",
+        "doctorId": "d6",
+        "price": 250000,
+        "duration": "120 min"
+    },
+    {
+        "id": "p57",
+        "name": "Contorneado dental",
+        "specialty": "Odontología Estética",
+        "doctorId": "d6",
+        "price": 40000,
+        "duration": "45 min"
+    },
+    {
+        "id": "p58",
+        "name": "Reconstrucción estética",
+        "specialty": "Odontología Estética",
+        "doctorId": "d6",
+        "price": 55000,
+        "duration": "45 min"
+    },
+    {
+        "id": "p59",
+        "name": "Blanqueamiento Dental",
+        "specialty": "Odontología Estética",
+        "doctorId": "d6",
+        "price": 85000,
+        "duration": "60 min"
+    },
+    {
+        "id": "p60",
+        "name": "Coronas dentales",
+        "specialty": "Rehabilitación Oral",
+        "doctorId": "d6",
+        "price": 90000,
+        "duration": "60 min"
+    },
+    {
+        "id": "p61",
+        "name": "Puentes dentales",
+        "specialty": "Rehabilitación Oral",
+        "doctorId": "d6",
+        "price": 180000,
+        "duration": "90 min"
+    },
+    {
+        "id": "p62",
+        "name": "Prótesis removibles",
+        "specialty": "Rehabilitación Oral",
+        "doctorId": "d6",
+        "price": 140000,
+        "duration": "90 min"
+    },
+    {
+        "id": "p63",
+        "name": "Prótesis completas",
+        "specialty": "Rehabilitación Oral",
+        "doctorId": "d6",
+        "price": 280000,
+        "duration": "120 min"
+    },
+    {
+        "id": "p64",
+        "name": "Prótesis parciales",
+        "specialty": "Rehabilitación Oral",
+        "doctorId": "d6",
+        "price": 250000,
+        "duration": "120 min"
+    },
+    {
+        "id": "p65",
+        "name": "Reparación de prótesis",
+        "specialty": "Rehabilitación Oral",
+        "doctorId": "d6",
+        "price": 35000,
+        "duration": "45 min"
+    },
+    {
+        "id": "p66",
+        "name": "Protesis Parcial",
+        "specialty": "Rehabilitación Oral",
+        "doctorId": "d6",
+        "price": 250000,
+        "duration": "120 min"
+    },
+    {
+        "id": "p67",
+        "name": "Rehabilitacion Oral",
+        "specialty": "Rehabilitación Oral",
+        "doctorId": "d6",
+        "price": 140000,
+        "duration": "90 min"
+    },
+    {
+        "id": "p68",
+        "name": "Radiografía periapical",
+        "specialty": "Diagnóstico por Imágenes",
+        "doctorId": "d1",
+        "price": 8000,
+        "duration": "15 min"
+    },
+    {
+        "id": "p69",
+        "name": "Radiografía panorámica",
+        "specialty": "Diagnóstico por Imágenes",
+        "doctorId": "d1",
+        "price": 18000,
+        "duration": "20 min"
+    },
+    {
+        "id": "p70",
+        "name": "Radiografía bite-wing",
+        "specialty": "Diagnóstico por Imágenes",
+        "doctorId": "d1",
+        "price": 9000,
+        "duration": "15 min"
+    },
+    {
+        "id": "p71",
+        "name": "Interpretación de estudios",
+        "specialty": "Diagnóstico por Imágenes",
+        "doctorId": "d1",
+        "price": 12000,
+        "duration": "30 min"
+    },
+    {
+        "id": "p72",
+        "name": "Radiografia Panoramica",
+        "specialty": "Diagnóstico por Imágenes",
+        "doctorId": "d1",
+        "price": 18000,
+        "duration": "20 min"
+    },
+    {
+        "id": "p73",
+        "name": "Limpieza Dental Completa",
+        "specialty": "Odontología General",
+        "doctorId": "d1",
+        "price": 22000,
+        "duration": "45 min"
+    }
+]

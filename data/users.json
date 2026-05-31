@@ -1,0 +1,58 @@
+[
+  {
+    "id": "admin01",
+    "name": "Administrador",
+    "lastName": "DentCare",
+    "email": "admin@dentcare.com",
+    "password": "admin",
+    "role": "admin"
+  },
+  {
+    "id": "d1",
+    "name": "María",
+    "lastName": "Pérez",
+    "email": "dra.perez@dentcare.com",
+    "password": "password123",
+    "role": "doctor"
+  },
+  {
+    "id": "d2",
+    "name": "Juan",
+    "lastName": "Gómez",
+    "email": "dr.gomez@dentcare.com",
+    "password": "password123",
+    "role": "doctor"
+  },
+  {
+    "id": "d3",
+    "name": "Laura",
+    "lastName": "Fernández",
+    "email": "dra.fernandez@dentcare.com",
+    "password": "password123",
+    "role": "doctor"
+  },
+  {
+    "id": "d4",
+    "name": "Carlos",
+    "lastName": "Rodríguez",
+    "email": "dr.rodriguez@dentcare.com",
+    "password": "password123",
+    "role": "doctor"
+  },
+  {
+    "id": "d5",
+    "name": "Martín",
+    "lastName": "López",
+    "email": "dr.lopez@dentcare.com",
+    "password": "password123",
+    "role": "doctor"
+  },
+  {
+    "id": "d6",
+    "name": "Sofía",
+    "lastName": "Martínez",
+    "email": "dra.martinez@dentcare.com",
+    "password": "password123",
+    "role": "doctor"
+  }
+]

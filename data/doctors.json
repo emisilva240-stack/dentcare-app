@@ -1,0 +1,48 @@
+[
+  {
+    "id": "d1",
+    "name": "Dra. María Pérez",
+    "specialties": [
+      "Odontología General",
+      "Odontopediatría",
+      "Diagnóstico por Imágenes"
+    ]
+  },
+  {
+    "id": "d2",
+    "name": "Dr. Juan Gómez",
+    "specialties": [
+      "Ortodoncia"
+    ]
+  },
+  {
+    "id": "d3",
+    "name": "Dra. Laura Fernández",
+    "specialties": [
+      "Endodoncia"
+    ]
+  },
+  {
+    "id": "d4",
+    "name": "Dr. Carlos Rodríguez",
+    "specialties": [
+      "Periodoncia"
+    ]
+  },
+  {
+    "id": "d5",
+    "name": "Dr. Martín López",
+    "specialties": [
+      "Cirugía Bucal",
+      "Implantología"
+    ]
+  },
+  {
+    "id": "d6",
+    "name": "Dra. Sofía Martínez",
+    "specialties": [
+      "Odontología Estética",
+      "Rehabilitación Oral"
+    ]
+  }
+]
